@@ -1,4 +1,4 @@
-## Hi there 👋
+## Don't be shy
 
 <!--
 **TheArchite/TheArchite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
